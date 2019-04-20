@@ -1,2 +1,0 @@
--- Fatten a given list structure 
--- Coming soon
