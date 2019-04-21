@@ -1,4 +1,4 @@
--- Put together consecutive duplicates into lists
+-- Length encoding of a list
 runLen :: (Eq a) => [a] -> [(Int, a)]
 runLen (a:b) 
     = runLen' (a:b) a 0
