@@ -1,8 +1,32 @@
-## An attempt at solving 99 problems in Haskell and Prolog. 
+# 99 Problems in Haskell and Prolog
+*An attempt at solving 99 problems in Haskell and Prolog.*
 
-## Source: 
+**Sources:**
+[99 Problems in Haskell](https://wiki.haskell.org/H-99:_Ninety-Nine_Haskell_Problems)
+[99 Problems in Prolog](http://www.ic.unicamp.br/~meidanis/courses/mc336/2009s2/prolog/problemas/)
 
-https://wiki.haskell.org/H-99:_Ninety-Nine_Haskell_Problems
+# Progress
+#### Haskell
+**Complete**
+Problems 1-10: Lists - By [OmarG247](https://github.com/OmarG247)
+Problems 11-20: Lists, continued - By [OmarG247](https://github.com/OmarG247)
 
-http://www.ic.unicamp.br/~meidanis/courses/mc336/2009s2/prolog/problemas/
+**Incomplete**
+Problems 21-28: Lists again - In Progress ([Walsker](https://github.com/walsker))
+Problems 31-41: Arithmetic
+Problems 46-50: Logic and codes
+Problems 54A-60: Binary trees
+Problems 61-69: Binary trees, continued
+Problems 70B-73: Multiway trees
+Problems 80-89: Graphs
+Problems 90-94: Miscellaneous problems
+Problems 95-99: Miscellaneous problems, continued
 
+#### Prolog
+**Complete**
+Problem 1 - By [OmarG247](https://github.com/OmarG247)
+Problem 4 - By [OmarG247](https://github.com/OmarG247)
+Problem 5 - By [OmarG247](https://github.com/OmarG247)
+
+**Incomplete**
+Problems 2, 3, 6-99
