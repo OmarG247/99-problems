@@ -1,4 +1,8 @@
--- Delete consecutive duplicates of elements 
+-------------------------------------------------------------------------------
+-- Solved by OmarG247
+-- Problem 8: Delete consecutive duplicates of elements in a list
+-------------------------------------------------------------------------------
+
 clean :: (Eq a) => [a] -> [a]
 clean (a:b)
     = a : (clean' b a)

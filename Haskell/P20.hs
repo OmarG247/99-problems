@@ -1,4 +1,8 @@
--- !Remove nth element from list
+-------------------------------------------------------------------------------
+-- Solved by OmarG247
+-- Problem 20: Remove the k'th element from a list
+-------------------------------------------------------------------------------
+
 removeN :: [a] -> Int -> (a, [a])
 removeN list index 
     = (list !! (index - 1), (listRem list index))

@@ -1,4 +1,8 @@
--- Extract section from list given parameters
+-------------------------------------------------------------------------------
+-- Solved by OmarG247
+-- Problem 18: Extract a slice from a list
+-------------------------------------------------------------------------------
+
 extract :: [a] -> Int -> Int -> [a]
 extract (h:t) begin end 
     | begin > 0 

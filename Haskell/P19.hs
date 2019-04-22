@@ -1,4 +1,8 @@
--- !Rotate a list N indexes to the left
+-------------------------------------------------------------------------------
+-- Solved by OmarG247
+-- Problem 19: Rotate a list n elements to the left
+-------------------------------------------------------------------------------
+
 rotate :: [a] -> Int -> [a]
 rotate (h:t) rotations 
     | rotations == 0

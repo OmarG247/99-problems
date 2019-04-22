@@ -1,4 +1,8 @@
--- Find second last element in a list
+-------------------------------------------------------------------------------
+-- Solved by OmarG247
+-- Problem 2: Find the second last element in a list
+-------------------------------------------------------------------------------
+
 secondLast :: [a] -> a
 secondLast (a:b:[]) 
     = a
