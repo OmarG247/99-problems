@@ -1,15 +1,17 @@
 # 99 Problems in Haskell and Prolog
 *An attempt at solving 99 problems in Haskell and Prolog.*
 
-**Sources:**\
-[99 Problems in Haskell](https://wiki.haskell.org/H-99:_Ninety-Nine_Haskell_Problems)\
+**Sources:**  
+[99 Problems in Haskell](https://wiki.haskell.org/H-99:_Ninety-Nine_Haskell_Problems)  
 [99 Problems in Prolog](http://www.ic.unicamp.br/~meidanis/courses/mc336/2009s2/prolog/problemas/)
 
 # Progress
 ### Haskell
-Problems 1-10: Lists - Completed ([OmarG247](https://github.com/OmarG247))\
-Problems 11-20: Lists, continued - Completed ([OmarG247](https://github.com/OmarG247))\
-Problems 21-28: Lists again - In Progress ([Walsker](https://github.com/walsker))
+Problems 1-10: Lists - Completed ([OmarG247](https://github.com/OmarG247))  
+* P7 Completed by [Walsker](https://github.com/walsker)
+
+Problems 11-20: Lists, continued - Completed ([OmarG247](https://github.com/OmarG247))  
+Problems 21-28: Lists again - In Progress ([Walsker](https://github.com/walsker))  
 <!---
 Problems 31-41: Arithmetic\
 Problems 46-50: Logic and codes\

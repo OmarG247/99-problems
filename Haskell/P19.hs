@@ -11,5 +11,3 @@ rotate (h:t) rotations
         = (rotate (last(t) : (h:init(t))) (rotations + 1))
     | rotations > 0 
         = (rotate (t ++ [h]) (rotations - 1))
-
--- TODO Negative number is broken (turning right)
