@@ -8,6 +8,7 @@
 # Progress
 ### Haskell
 Problems 1-10: Lists - Completed ([OmarG247](https://github.com/OmarG247))\
+* P7 Completed by [Walsker](https://github.com/walsker)
 Problems 11-20: Lists, continued - Completed ([OmarG247](https://github.com/OmarG247))\
 Problems 21-28: Lists again - In Progress ([Walsker](https://github.com/walsker))
 <!---
