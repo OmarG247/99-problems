@@ -8,7 +8,7 @@ rotate (h:t) rotations
     | rotations == 0
         = (h:t)
     | rotations < 0
-        = (rotate (tail(t) ++ (init(h:t))) (rotations + 1))
+        = (rotate (last(t) : (h:init(t))) (rotations + 1))
     | rotations > 0 
         = (rotate (t ++ [h]) (rotations - 1))
 
