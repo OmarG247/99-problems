@@ -1,4 +1,4 @@
--- Length Encoding revisited
+-- Direct run length encoding of list
 data Item a = Single a | Multiple (Int, a) deriving Show
 
 encode :: (Eq a) => [a] -> [Item a]
@@ -20,4 +20,3 @@ encode' [] current count
         = [Single current] 
     | otherwise 
         = [Multiple (count, current)]
-
