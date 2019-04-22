@@ -1,6 +1,6 @@
 -------------------------------------------------------------------------------
--- Solved by Wal Wal
--- Question: Insert an element at a given position into a list
+-- Solved by Walsker
+-- Problem 21: Insert an element at a given position into a list
 -------------------------------------------------------------------------------
 
 insertAt :: Eq x => [x] -> x -> Int -> [x]
