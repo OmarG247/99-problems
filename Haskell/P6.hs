@@ -1,4 +1,8 @@
--- Check if list is a palindrome 
+-------------------------------------------------------------------------------
+-- Solved by OmarG247
+-- Problem 6: Find out whether a list is a palindrome
+-------------------------------------------------------------------------------
+
 getLen :: [a] -> Int
 getLen (h:t)
     = getLen t + 1

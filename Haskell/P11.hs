@@ -1,4 +1,10 @@
--- Length Encoding revisited
+-------------------------------------------------------------------------------
+-- Solved by OmarG247
+-- Problem 11: Run-length encoding revisited
+--	Modify P10 so that if an element has no duplicates it's simply
+--	copied to the result list
+-------------------------------------------------------------------------------
+
 data Item a = Single a | Multiple (Int, a) deriving Show
 
 encode :: (Eq a) => [a] -> [Item a]

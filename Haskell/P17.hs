@@ -1,4 +1,7 @@
--- Split list into two parts given length of first 
+-------------------------------------------------------------------------------
+-- Solved by OmarG247
+-- Problem 17: Split a list in two parts; the length of the first part is given
+-------------------------------------------------------------------------------
 
 splitL :: [a] -> Int -> [[a]]
 splitL (a:b) lim 

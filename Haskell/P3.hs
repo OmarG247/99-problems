@@ -1,4 +1,8 @@
--- Find K'th element in a list 
+-------------------------------------------------------------------------------
+-- Solved by OmarG247
+-- Problem 3: Find the k'th element in a list
+-------------------------------------------------------------------------------
+
 findK :: [a] -> Int -> a
 findK (a:b) num
     = findK' (a:b) num 0

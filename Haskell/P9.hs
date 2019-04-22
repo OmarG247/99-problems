@@ -1,4 +1,8 @@
--- Put together consecutive duplicates into lists
+-------------------------------------------------------------------------------
+-- Solved by OmarG247
+-- Problem 9: Put together consecutive duplicates into lists
+-------------------------------------------------------------------------------
+
 pack :: (Eq a) => [a] -> [[a]]
 pack (a:b) 
     = pack' (a:b) a []

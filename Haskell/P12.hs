@@ -1,4 +1,8 @@
--- Decode run length encoding
+-------------------------------------------------------------------------------
+-- Solved by OmarG247
+-- Problem 12: Decode a run-length encoded list
+-------------------------------------------------------------------------------
+
 data Item a = Single a | Pair (Int, a) deriving Show
 
 decode :: [Item a] -> [a]

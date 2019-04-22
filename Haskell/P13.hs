@@ -1,4 +1,9 @@
--- Direct run length encoding of list
+-------------------------------------------------------------------------------
+-- Solved by OmarG247
+-- Problem 13: Run-length encoding of a list (direct solution)
+--	See source for details
+-------------------------------------------------------------------------------
+
 data Item a = Single a | Multiple (Int, a) deriving Show
 
 encode :: (Eq a) => [a] -> [Item a]
