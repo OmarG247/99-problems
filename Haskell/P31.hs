@@ -1,3 +1,8 @@
+-------------------------------------------------------------------------------
+-- Solved by dellisd
+-- Problem 31: Determine whether a given integer number is prime
+-------------------------------------------------------------------------------
+
 isPrime :: Int -> Bool
 
 isPrime n
