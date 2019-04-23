@@ -30,4 +30,6 @@ Problems 95-99: Miscellaneous problems, continued
 Problem 1 - Completed ([OmarG247](https://github.com/OmarG247))  
 Problem 3 - Completed ([Walsker](https://github.com/walsker))  
 Problem 4 - Completed ([OmarG247](https://github.com/OmarG247))  
-Problem 5 - Completed ([OmarG247](https://github.com/OmarG247))
+Problem 5 - Completed ([OmarG247](https://github.com/OmarG247))  
+Problem 7 - Completed ([Walsker](https://github.com/walsker))  
+Problem 8 - Completed ([Walsker](https://github.com/walsker))  
