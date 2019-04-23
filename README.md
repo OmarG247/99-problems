@@ -1,3 +1,7 @@
+<!---
+[Walsker](https://github.com/walsker)
+[OmarG247](https://github.com/OmarG247)
+-->
 # 99 Problems in Haskell and Prolog
 *An attempt at solving 99 problems in Haskell and Prolog.*
 
@@ -23,6 +27,7 @@ Problems 90-94: Miscellaneous problems\
 Problems 95-99: Miscellaneous problems, continued
 --->
 ### Prolog
-Problem 1 - Completed ([OmarG247](https://github.com/OmarG247))\
-Problem 4 - Completed ([OmarG247](https://github.com/OmarG247))\
+Problem 1 - Completed ([OmarG247](https://github.com/OmarG247))  
+Problem 3 - Completed ([Walsker](https://github.com/walsker))  
+Problem 4 - Completed ([OmarG247](https://github.com/OmarG247))  
 Problem 5 - Completed ([OmarG247](https://github.com/OmarG247))
