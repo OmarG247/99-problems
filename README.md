@@ -12,8 +12,8 @@ Problems 1-10: Lists - Completed ([OmarG247](https://github.com/OmarG247))
 
 Problems 11-20: Lists, continued - Completed ([OmarG247](https://github.com/OmarG247))  
 Problems 21-28: Lists again - In Progress ([Walsker](https://github.com/walsker))  
+Problems 31-41: Arithmetic - In Progress ([dellisd](https://github.com/dellisd))
 <!---
-Problems 31-41: Arithmetic\
 Problems 46-50: Logic and codes\
 Problems 54A-60: Binary trees\
 Problems 61-69: Binary trees, continued\
